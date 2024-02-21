@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Greeter"
+config/name="Temble"
 run/main_scene="res://scenes/menu.tscn"
 config/features=PackedStringArray("4.2")
 config/icon="res://assets/icon.png"

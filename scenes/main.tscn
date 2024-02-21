@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://d11wogcjxnncv"]
 
-[ext_resource type="Script" path="res://scripts/greeter.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/temble.gd" id="1"]
 [ext_resource type="Material" uid="uid://cdco3232rqf0y" path="res://resources/materials/circle_pixel_material.tres" id="1_1rx2b"]
 
 [node name="Main" type="Node"]
@@ -23,7 +23,7 @@ render_target_update_mode = 4
 [node name="Camera" type="Camera3D" parent="ViewportContainer/Viewport"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5)
 
-[node name="Greeter" type="Label3D" parent="ViewportContainer/Viewport"]
+[node name="Temble" type="Label3D" parent="ViewportContainer/Viewport"]
 pixel_size = 0.05
 text = "Hello John!"
 script = ExtResource("1")

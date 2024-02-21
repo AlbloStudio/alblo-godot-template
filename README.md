@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 📝 Greeter
+# 📝 Albo Template
 
 ![Godot Badge](https://img.shields.io/badge/godot-4.2-blue?logo=Godot-Engine&logoColor=white)
 ![license](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative&logoColor=white)
@@ -27,7 +27,7 @@ A template to create new [Godot Engine](https://godotengine.org/) project.
 ### Adjust the template to your needs
 
 - Use this repo [as a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-- Replace all occurrences of "Greeter" with the name of your project
+- Replace all occurrences of "Temble" with the name of your project
 - Replace files with your own
 - Happy coding!
 

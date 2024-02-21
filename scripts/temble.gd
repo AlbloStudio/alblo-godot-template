@@ -1,6 +1,6 @@
 @tool
 
-class_name Greeter
+class_name Temble
 
 extends Label3D
 

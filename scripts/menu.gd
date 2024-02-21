@@ -5,7 +5,7 @@ extends Node
 
 
 func _ready():
-	title.set_text(&"Greeter")
+	title.set_text(&"Temble")
 	easy_menu.connect(&"start_game_pressed", _on_Menu_start_game_pressed)
 
 
